@@ -1,0 +1,38 @@
+body {
+    background-image: https://static.prsa.pl/images/640859df-af1b-4eba-aa27-cf700bde3a65.file?format=900;
+    background-size: cover;
+}
+
+.g {
+    border: 5px solid magenta;
+    border-radius: 10px;
+    text-align: center;
+    background-size: cover;
+    margin: 0 auto;
+    width: 1200px;
+    height: 200px;
+}
+
+.text {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.btext {
+    color: white;
+    font-size: 50px;
+}
+
+.gg {
+    border: 5px solid blue;
+    border-radius: 10px;
+    text-align: center;
+    background-size: cover;
+    margin: 0 auto;
+    width: 500px;
+    height: 400px;
+    box-shadow: red;
+    color: white;
+    font-size: 30px;
+}
