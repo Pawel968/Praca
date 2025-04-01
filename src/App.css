@@ -14,25 +14,25 @@ body {
 }
 
 .text {
-    color: white;
+    color: black;
     font-size: 30px;
-    text-align: center;
+    text-align: right;
 }
 
 .btext {
-    color: white;
+    color: black;
     font-size: 50px;
 }
 
 .gg {
     border: 5px solid blue;
     border-radius: 10px;
-    text-align: center;
+    text-align: right;
     background-size: cover;
     margin: 0 auto;
     width: 500px;
     height: 400px;
     box-shadow: red;
-    color: white;
+    color: black;
     font-size: 30px;
 }
