@@ -3,36 +3,40 @@ body {
     background-size: cover;
 }
 
-.g {
+.div_1 {
     border: 5px solid magenta;
     border-radius: 10px;
     text-align: center;
+    background-image: url(https://www.educol.pl/4657-home_default/kwiatki-ozdobne.jpg);
     background-size: cover;
     margin: 0 auto;
-    width: 1200px;
+    width: 400px;
     height: 200px;
-}
-
-.text {
     color: black;
-    font-size: 30px;
-    text-align: right;
+    font-size: 20px;
 }
 
-.btext {
-    color: black;
-    font-size: 50px;
-}
-
-.gg {
-    border: 5px solid blue;
-    border-radius: 10px;
+.div_2 {
+    border: 5px solid green;
+    box-shadow: 10px blue;
     text-align: right;
+    background-image: url(https://img.freepik.com/darmowe-psd/izolowana-ramka-kwiatowa_23-2151048413.jpg);
     background-size: cover;
     margin: 0 auto;
-    width: 500px;
-    height: 400px;
-    box-shadow: red;
+    width: 400px;
+    height: 500px;
     color: black;
-    font-size: 30px;
+    font-size: 10px;
+}
+
+.div_3 {
+    border: 5px solid green;
+    text-align: center;
+    background-image: url(https://ulala.com.pl/img-preview/aHR0cHM6Ly91bGFsYS5jb20ucGwvaW1nL3dsYXNuZV9mb3RvL2Fkb2Jlc3RvY2tfd2Y3Nzhfd3ljenlzemN6b25lX2FydF9zY2FsZV8yXzAweF9naWdhcGl4ZWxfNjA2MS5qcGc=?&w=254&h=362&e=none&f=none&r=0);
+    background-size: cover;
+    margin: 0 auto;
+    width: 400px;
+    height: 500px;
+    color: black;
+    font-size: 10px;
 }
