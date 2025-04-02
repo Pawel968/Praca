@@ -32,7 +32,7 @@ function App() {
     <br/>
     <div class="div_3">
     <ul>
-    <li>{sum1} = {n_k*x*x*x+1-n_k*y}</li>
+    <li><li>{n_k}x<sup>3</sup>+1-{n_k}y = {n_k*x*x*x+1-n_k*y}</li></li>
     <li>2x+3{n_k}-4y<sup>2</sup> = {2*x+3*n_k-4*y*y}</li>
     <li>3y<sup>2</sup>-{n_k}x<sup>2</sup>y-7y = {3*y*y-n_k*x*x*y-7*y}</li>
     <li>2xy+{n_k}xy = {2*x*y+n_k*x*y}</li>
