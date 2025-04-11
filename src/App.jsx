@@ -1,8 +1,8 @@
 import './App.css'
 
 const n_k = 1;
-let x;
-let y;
+let x = 2;
+let y = 3;
 let sum1;
 console.log(n_k);
 
